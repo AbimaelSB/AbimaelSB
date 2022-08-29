@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbimaelSB
 - 👀 I’m interested in Web Development and Mobile Development
-- 🌱 I’m currently learning Html5 and CSS3
+- 🌱 I’m currently learning Html5, CSS3 and JavaScript
 - 📫 How to reach me:
 - E-mail: Abimael.barros@yahoo.com
 - Linkedin: https://www.linkedin.com/in/abimael-barros-1b338b209/
