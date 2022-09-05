@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbimaelSB
-- 👀 I’m interested in Web Development and Mobile Development
+- 👀 I’m interested in Web and Mobile Development
 - 🌱 I’m currently learning Html5, CSS3 and JavaScript
 - 📫 How to reach me:
 - E-mail: Abimael.barros@yahoo.com
