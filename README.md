@@ -6,7 +6,7 @@
   - Linkedin: https://www.linkedin.com/in/abimael-barros-1b338b209/
 
 <div align="center">
-  <a href="https://github.com/AbimaelSB">
+  <a href="https://github.com/AbimaelSB?tab=repositories">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abimaelsb&show_icons=true&theme=algolia&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abimaelsb&layout=compact&langs_count=7&theme=algolia"/>
 </div>
