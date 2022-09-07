@@ -5,6 +5,8 @@
 - E-mail: Abimael.barros@yahoo.com
 - Linkedin: https://www.linkedin.com/in/abimael-barros-1b338b209/
 
+![AbimaelSB Stats](https://github-readme-stats.vercel.app/api?username=abimaelsb&show_icons=true)
+
 <!---
 AbimaelSB/AbimaelSB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
