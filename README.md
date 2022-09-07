@@ -5,7 +5,7 @@
 - E-mail: Abimael.barros@yahoo.com
 - Linkedin: https://www.linkedin.com/in/abimael-barros-1b338b209/
 
-![AbimaelSB Stats](https://github-readme-stats.vercel.app/api?username=abimaelsb&show_icons=true)
+![AbimaelSB Stats](https://github-readme-stats.vercel.app/api?username=abimaelsb&show_icons=true&layout=default)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abimaelsb&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
