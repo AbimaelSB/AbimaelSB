@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/AbimaelSB?tab=repositories">
-  <img height="180em" width="500rem" src="https://github-readme-stats.vercel.app/api?username=abimaelsb&show_icons=true&theme=algolia&include_all_commits=true"/>
+  <img height="180em" width="450rem" src="https://github-readme-stats.vercel.app/api?username=abimaelsb&show_icons=true&theme=algolia&include_all_commits=true"/>
   <img height="180em" width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abimaelsb&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
