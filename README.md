@@ -1,6 +1,6 @@
-- 👋 Olá, eu sou Abimael Barros
+- 👋 Olá, eu sou o Abimael Barros
 - 👀 EStou interessado em Desenvolvimento Web Frontend
-- 🌱 Atualmente estou estudando HTML5, CSS3 and JavaScript
+- 🌱 Atualmente estou estudando HTML5, CSS3 e JavaScript
 - 📫 Informações de contato:
   - E-mail: Abimael.barros@yahoo.com
   - Linkedin: https://www.linkedin.com/in/abimael-barros-1b338b209/
