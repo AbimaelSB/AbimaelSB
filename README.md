@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou o Abimael Barros
-- 👀 EStou interessado em Desenvolvimento Web Frontend
+- 👀 EStou interessado em Desenvolvimento FullStack
 - 🌱 Atualmente estou estudando HTML5, CSS3, TypeScript, React e Spring
 - 📫 Informações de contato:
   - E-mail: Abimael.barros@yahoo.com
